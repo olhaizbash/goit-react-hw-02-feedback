@@ -1,4 +1,4 @@
-import css from '../FeedbackOptions/FeedbackOptions.module.css';
+import '../FeedbackOptions/FeedbackOptions.module.css';
 
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
